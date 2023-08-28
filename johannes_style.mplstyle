@@ -1,4 +1,4 @@
-font.family: Arial
+#font.family: Arial
 
 # Set custom colors. All colors are in web style hex format.
 axes.prop_cycle: cycler('color',['A100FF', '6276BA', 'E2D9E2', 'B25652', '2F1436'])
